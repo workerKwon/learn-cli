@@ -1,1 +1,1 @@
-let me = "frontend developer school 12th"
+let me = "태킷 frontend developer school 12th"
